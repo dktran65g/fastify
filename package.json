@@ -209,7 +209,7 @@
     "fstream": "^1.0.12",
     "inflight":"1.0.6",
     "abab": "^2.0.6",
-    "uuid": "3.4.0",
+    "uuid": "11.1.0",
     "xterm": "4.9.0",
     "globalthis": "1.0.0",
     "stable":"0.1.8",
